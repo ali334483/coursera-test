@@ -1,0 +1,30 @@
+
+/* Class Formating */
+.Highlight {
+    color: blue;
+    font-style: bold;
+}
+
+
+
+.mainpoint{
+
+    color:green;
+    font-weight: bold;
+
+}
+
+/* Id layout */
+#color{
+       color:red;
+}
+
+/* Child Selector */
+
+article > p {
+      font-style: italic;
+}
+/* Element with Class Selector */
+p.mainpoint{
+    font-size: 50px;
+}

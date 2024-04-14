@@ -1,0 +1,26 @@
+p{
+    color: blue;
+    font-weight: bold;
+    opacity: .6;
+    
+}
+
+h2{
+    color:green;
+    font-size:100px;
+    text-align:center;
+    text-shadow: 0cqh;
+}
+
+#purple{
+    color:purple
+}
+
+.blue{
+    color:blue
+}
+
+p,div{
+    text-align: center;
+
+}

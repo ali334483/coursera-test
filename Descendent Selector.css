@@ -1,0 +1,16 @@
+
+
+/* Descendent Selector */
+article p {
+    color: blue;
+}
+
+.Highlight p{
+    color:aqua;
+    font-weight: bolder;
+}
+
+article > .Mainpoint{
+    color: greenyellow;
+    font-weight: bolder;
+}

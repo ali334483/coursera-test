@@ -1,0 +1,11 @@
+
+/*This wil be catered because 2 elements specified */
+header p{
+    color:blue;
+    
+}
+
+/*This will be ignored because 1 element specified */
+p{
+    color:red;
+}
